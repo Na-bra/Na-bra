@@ -13,7 +13,7 @@
 
 ## 🧭 About Me
 
-I build web applications end to end — REST APIs, database schemas, authentication, and the frontend that sits on top of it. Most of my production work is Node.js/Express/MongoDB/React, but I'm not tied to the stack — I also work in Python, mostly for backend tooling and, more recently, computer vision.
+I build web applications end to end — REST APIs, database schemas, authentication, and the frontend that sits on top of it. Most of my production work is Node.js/Express/MongoDB/React, but I'm not tied to the stack — I also work in Python, mostly for backend tooling and, more recently, computer vision, and I'm currently working on a Next.js/Node.js production stack during my internship.
 
 I'm currently a software engineering student, splitting time between coursework, an internship focused on infrastructure and deployment for a production business application, and independent projects where I get to make my own architectural calls. The independent projects tend to be where I push furthest technically — that's where a marketplace app with real role-based auth turned into a Python video pipeline with its own face-detection and clustering logic.
 
@@ -34,7 +34,7 @@ A desktop tool that finds a specific person across a video and cuts their appear
 
 **⚙️ Deployment Infrastructure**
 
-Evaluating self-hosted PaaS setups (Coolify on Hetzner Cloud) for internship deployment work, alongside writing up the architecture decisions as I go.
+Evaluating and documenting self-hosted PaaS setups (Coolify on Hetzner Cloud) for internship deployment work — comparing a single-VPS setup against a hybrid local-machine/remote-Hetzner option, and writing up the architecture decisions as I go.
 
 </td>
 </tr>
@@ -46,6 +46,7 @@ Evaluating self-hosted PaaS setups (Coolify on Hetzner Cloud) for internship dep
 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -53,6 +54,7 @@ Evaluating self-hosted PaaS setups (Coolify on Hetzner Cloud) for internship dep
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend**
@@ -62,6 +64,7 @@ Evaluating self-hosted PaaS setups (Coolify on Hetzner Cloud) for internship dep
 
 **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **AI / ML & Computer Vision**
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -138,6 +141,12 @@ A content-based movie recommendation system using similarity scoring over user p
 🔗 **[github.com/Na-bra/recommendation-agent](https://github.com/Na-bra/recommendation-agent)** · [live demo](https://recommendation-agent-jet.vercel.app)
 
 </details>
+
+<br>
+
+## 🎓 Certifications
+
+![Huawei](https://img.shields.io/badge/Huawei-HCIA--Datacom-FF0000?style=flat-square&logo=huawei&logoColor=white)
 
 <br>
 
